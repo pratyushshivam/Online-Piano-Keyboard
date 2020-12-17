@@ -9,4 +9,4 @@ An online piano keyboard simulator that lets you play seamlessly with your compu
 
 
 
-![screen1](Screenshots/screen1.png)
+![screen](Screenshot/screen.png)
