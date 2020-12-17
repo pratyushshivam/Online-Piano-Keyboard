@@ -3,7 +3,7 @@ An online piano keyboard simulator that lets you play seamlessly with your compu
 
 ## The online piano can be visited here :
 
-## [Online Piano Keyboard](https://piano.web.app)
+## [Online Piano Keyboard](https://onlinepiano.web.app/)
 
 
 <br>
